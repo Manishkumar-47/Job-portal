@@ -1,0 +1,41 @@
+# Job Portal System
+
+This is a simple C++ console application for managing job postings. It allows users to add, display, update, and delete jobs.
+
+## Features
+
+- Add new job postings
+- Display all jobs
+- Update job details
+- Delete jobs by ID
+
+## How to Run
+
+1. Compile the code:
+   ```
+   g++ jobportal.cpp -o jobportal
+   ```
+2. Run the executable:
+   ```
+   ./jobportal
+   ```
+   On Windows:
+   ```
+   jobportal.exe
+   ```
+
+## File Structure
+
+- `jobportal.cpp` — Main source code file
+
+## Requirements
+
+- C++ compiler (e.g., g++, Visual Studio, etc.)
+
+## Usage
+
+Follow the on-screen menu to manage jobs in the portal.
+
+---
+
+*Created for learning purposes*
